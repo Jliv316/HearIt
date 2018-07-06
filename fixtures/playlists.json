@@ -1,0 +1,870 @@
+{
+  "href": "https://api.spotify.com/v1/users/1263322089/playlists?offset=0&limit=20",
+  "items": [
+    {
+      "collaborative": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/user/1263322089/playlist/1JrqK3hJAZYKC53UuKYv23"
+      },
+      "href": "https://api.spotify.com/v1/users/1263322089/playlists/1JrqK3hJAZYKC53UuKYv23",
+      "id": "1JrqK3hJAZYKC53UuKYv23",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://mosaic.scdn.co/640/23a3fb3c50e2769dba0224aee12237c62f9d634e44a940469cc54c0a0eb3bdf6ef48f20f776110c1705b1a792a8774b25efc6ed8a2ae8066a22ae2c27db0b998d21d7ddc389c80f0eface569e6243519",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://mosaic.scdn.co/300/23a3fb3c50e2769dba0224aee12237c62f9d634e44a940469cc54c0a0eb3bdf6ef48f20f776110c1705b1a792a8774b25efc6ed8a2ae8066a22ae2c27db0b998d21d7ddc389c80f0eface569e6243519",
+          "width": 300
+        },
+        {
+          "height": 60,
+          "url": "https://mosaic.scdn.co/60/23a3fb3c50e2769dba0224aee12237c62f9d634e44a940469cc54c0a0eb3bdf6ef48f20f776110c1705b1a792a8774b25efc6ed8a2ae8066a22ae2c27db0b998d21d7ddc389c80f0eface569e6243519",
+          "width": 60
+        }
+      ],
+      "name": "July 2018",
+      "owner": {
+        "display_name": "Johnny Craig",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/1263322089"
+        },
+        "href": "https://api.spotify.com/v1/users/1263322089",
+        "id": "1263322089",
+        "type": "user",
+        "uri": "spotify:user:1263322089"
+      },
+      "primary_color": null,
+      "public": true,
+      "snapshot_id": "pl0Eh7dMH/2suYaFwK7SFclAzUF/GTWKwEWURgiKefNYfOuBIMXCEFuiPPghIE3r",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/users/1263322089/playlists/1JrqK3hJAZYKC53UuKYv23/tracks",
+        "total": 10
+      },
+      "type": "playlist",
+      "uri": "spotify:user:1263322089:playlist:1JrqK3hJAZYKC53UuKYv23"
+    },
+    {
+      "collaborative": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/user/1263322089/playlist/2K1FTvb8GR3QDWN4dTSkrf"
+      },
+      "href": "https://api.spotify.com/v1/users/1263322089/playlists/2K1FTvb8GR3QDWN4dTSkrf",
+      "id": "2K1FTvb8GR3QDWN4dTSkrf",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://mosaic.scdn.co/640/2a0630e238484bee32515acc921bc0b348ba4ffd44a940469cc54c0a0eb3bdf6ef48f20f776110c1668482973d9d2683f2f58542c8758e96181c2ed8dfa4fc823e436ffdc0d423c39f2a990e125b89e0",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://mosaic.scdn.co/300/2a0630e238484bee32515acc921bc0b348ba4ffd44a940469cc54c0a0eb3bdf6ef48f20f776110c1668482973d9d2683f2f58542c8758e96181c2ed8dfa4fc823e436ffdc0d423c39f2a990e125b89e0",
+          "width": 300
+        },
+        {
+          "height": 60,
+          "url": "https://mosaic.scdn.co/60/2a0630e238484bee32515acc921bc0b348ba4ffd44a940469cc54c0a0eb3bdf6ef48f20f776110c1668482973d9d2683f2f58542c8758e96181c2ed8dfa4fc823e436ffdc0d423c39f2a990e125b89e0",
+          "width": 60
+        }
+      ],
+      "name": "June 2018",
+      "owner": {
+        "display_name": "Johnny Craig",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/1263322089"
+        },
+        "href": "https://api.spotify.com/v1/users/1263322089",
+        "id": "1263322089",
+        "type": "user",
+        "uri": "spotify:user:1263322089"
+      },
+      "primary_color": null,
+      "public": true,
+      "snapshot_id": "0I6Xiztnoycss1lMMOzQ4kwJmWUJTQEUuG5QJ8T4M0BkRVOBB3WU1pYrHtNaf2m1",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/users/1263322089/playlists/2K1FTvb8GR3QDWN4dTSkrf/tracks",
+        "total": 6
+      },
+      "type": "playlist",
+      "uri": "spotify:user:1263322089:playlist:2K1FTvb8GR3QDWN4dTSkrf"
+    },
+    {
+      "collaborative": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/user/1263322089/playlist/5MIdQ0JVcdKBmii7DoNhAh"
+      },
+      "href": "https://api.spotify.com/v1/users/1263322089/playlists/5MIdQ0JVcdKBmii7DoNhAh",
+      "id": "5MIdQ0JVcdKBmii7DoNhAh",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://mosaic.scdn.co/640/8a0d3981dd5c03f803fcea65a8f1de0ec1f6f0749c1a52a3bc60409f2d362554ae5f445aeaa1b387a7d9e250da6f06acd7bcc478cbbe463d09fa3957c3b61b3b0ce912162a9177341e3622a73f9f0b66",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://mosaic.scdn.co/300/8a0d3981dd5c03f803fcea65a8f1de0ec1f6f0749c1a52a3bc60409f2d362554ae5f445aeaa1b387a7d9e250da6f06acd7bcc478cbbe463d09fa3957c3b61b3b0ce912162a9177341e3622a73f9f0b66",
+          "width": 300
+        },
+        {
+          "height": 60,
+          "url": "https://mosaic.scdn.co/60/8a0d3981dd5c03f803fcea65a8f1de0ec1f6f0749c1a52a3bc60409f2d362554ae5f445aeaa1b387a7d9e250da6f06acd7bcc478cbbe463d09fa3957c3b61b3b0ce912162a9177341e3622a73f9f0b66",
+          "width": 60
+        }
+      ],
+      "name": "Caress me down",
+      "owner": {
+        "display_name": "Johnny Craig",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/1263322089"
+        },
+        "href": "https://api.spotify.com/v1/users/1263322089",
+        "id": "1263322089",
+        "type": "user",
+        "uri": "spotify:user:1263322089"
+      },
+      "primary_color": null,
+      "public": true,
+      "snapshot_id": "vFydHmRaa3V3vcqK2bPkLDAZxE+gwZTzVH086cUym+aaNtiT7Cy/kMWHBFM1Gts7",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/users/1263322089/playlists/5MIdQ0JVcdKBmii7DoNhAh/tracks",
+        "total": 50
+      },
+      "type": "playlist",
+      "uri": "spotify:user:1263322089:playlist:5MIdQ0JVcdKBmii7DoNhAh"
+    },
+    {
+      "collaborative": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/user/1263322089/playlist/3NjAtkvi8lsiEw0uoY0hPq"
+      },
+      "href": "https://api.spotify.com/v1/users/1263322089/playlists/3NjAtkvi8lsiEw0uoY0hPq",
+      "id": "3NjAtkvi8lsiEw0uoY0hPq",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://mosaic.scdn.co/640/01385b38e2814c2e98ac887a92ff7c4fe268173a16120a163b72bb931b3c613f4115fc226a7de05527daac538a4d28d3f710eb34b90241036e8b7a395927372edebd881c9fb86b02be73282e74d8e3e9",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://mosaic.scdn.co/300/01385b38e2814c2e98ac887a92ff7c4fe268173a16120a163b72bb931b3c613f4115fc226a7de05527daac538a4d28d3f710eb34b90241036e8b7a395927372edebd881c9fb86b02be73282e74d8e3e9",
+          "width": 300
+        },
+        {
+          "height": 60,
+          "url": "https://mosaic.scdn.co/60/01385b38e2814c2e98ac887a92ff7c4fe268173a16120a163b72bb931b3c613f4115fc226a7de05527daac538a4d28d3f710eb34b90241036e8b7a395927372edebd881c9fb86b02be73282e74d8e3e9",
+          "width": 60
+        }
+      ],
+      "name": "April 2018",
+      "owner": {
+        "display_name": "Johnny Craig",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/1263322089"
+        },
+        "href": "https://api.spotify.com/v1/users/1263322089",
+        "id": "1263322089",
+        "type": "user",
+        "uri": "spotify:user:1263322089"
+      },
+      "primary_color": null,
+      "public": true,
+      "snapshot_id": "CB43zYum2b7CT7YDC8OzaDTGCGweXDHkwQHovoxYYw10p2th8DMgqEnax7hEMgie",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/users/1263322089/playlists/3NjAtkvi8lsiEw0uoY0hPq/tracks",
+        "total": 33
+      },
+      "type": "playlist",
+      "uri": "spotify:user:1263322089:playlist:3NjAtkvi8lsiEw0uoY0hPq"
+    },
+    {
+      "collaborative": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/user/1263322089/playlist/3d9tL5Ri26Ehh8Ab1q2auI"
+      },
+      "href": "https://api.spotify.com/v1/users/1263322089/playlists/3d9tL5Ri26Ehh8Ab1q2auI",
+      "id": "3d9tL5Ri26Ehh8Ab1q2auI",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://mosaic.scdn.co/640/1b22c3de6a87c56cd857e8152ead9e278b79c7a2262239013d5d0d46e714bd2f1f3191509dbdfbe87cf70de8c2bfd9e544e936ca0139f73470609e61c8eafa550f5ce5bf54fa68a615bde6e0c18c13c4",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://mosaic.scdn.co/300/1b22c3de6a87c56cd857e8152ead9e278b79c7a2262239013d5d0d46e714bd2f1f3191509dbdfbe87cf70de8c2bfd9e544e936ca0139f73470609e61c8eafa550f5ce5bf54fa68a615bde6e0c18c13c4",
+          "width": 300
+        },
+        {
+          "height": 60,
+          "url": "https://mosaic.scdn.co/60/1b22c3de6a87c56cd857e8152ead9e278b79c7a2262239013d5d0d46e714bd2f1f3191509dbdfbe87cf70de8c2bfd9e544e936ca0139f73470609e61c8eafa550f5ce5bf54fa68a615bde6e0c18c13c4",
+          "width": 60
+        }
+      ],
+      "name": "Study - March 2018",
+      "owner": {
+        "display_name": "Johnny Craig",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/1263322089"
+        },
+        "href": "https://api.spotify.com/v1/users/1263322089",
+        "id": "1263322089",
+        "type": "user",
+        "uri": "spotify:user:1263322089"
+      },
+      "primary_color": null,
+      "public": true,
+      "snapshot_id": "RH5ujpt3yG25v7m8B/uqLPc/gsAgfblTKE3g4BEd8fpzOajRq7RWVCD+m76/UMSW",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/users/1263322089/playlists/3d9tL5Ri26Ehh8Ab1q2auI/tracks",
+        "total": 22
+      },
+      "type": "playlist",
+      "uri": "spotify:user:1263322089:playlist:3d9tL5Ri26Ehh8Ab1q2auI"
+    },
+    {
+      "collaborative": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/user/1263322089/playlist/0xcNF4ABxyXMfmzubpOmhz"
+      },
+      "href": "https://api.spotify.com/v1/users/1263322089/playlists/0xcNF4ABxyXMfmzubpOmhz",
+      "id": "0xcNF4ABxyXMfmzubpOmhz",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://mosaic.scdn.co/640/65d6f48f1d2afbb63f4c561f75a8b018024c0fc5705b1a792a8774b25efc6ed8a2ae8066a22ae2c283c4f90ba6a0fcff09f5b8abb1c9120adec26321a5c4f2b38aaa2718199f2070da810e5e7e9fdf7f",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://mosaic.scdn.co/300/65d6f48f1d2afbb63f4c561f75a8b018024c0fc5705b1a792a8774b25efc6ed8a2ae8066a22ae2c283c4f90ba6a0fcff09f5b8abb1c9120adec26321a5c4f2b38aaa2718199f2070da810e5e7e9fdf7f",
+          "width": 300
+        },
+        {
+          "height": 60,
+          "url": "https://mosaic.scdn.co/60/65d6f48f1d2afbb63f4c561f75a8b018024c0fc5705b1a792a8774b25efc6ed8a2ae8066a22ae2c283c4f90ba6a0fcff09f5b8abb1c9120adec26321a5c4f2b38aaa2718199f2070da810e5e7e9fdf7f",
+          "width": 60
+        }
+      ],
+      "name": "March 2018",
+      "owner": {
+        "display_name": "Johnny Craig",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/1263322089"
+        },
+        "href": "https://api.spotify.com/v1/users/1263322089",
+        "id": "1263322089",
+        "type": "user",
+        "uri": "spotify:user:1263322089"
+      },
+      "primary_color": null,
+      "public": true,
+      "snapshot_id": "YL1sUXFbntppmnSrJhq//ASn05p4W2RfGnF2QZ0X1ghYPdTixj01y+ax/ozOPvPW",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/users/1263322089/playlists/0xcNF4ABxyXMfmzubpOmhz/tracks",
+        "total": 15
+      },
+      "type": "playlist",
+      "uri": "spotify:user:1263322089:playlist:0xcNF4ABxyXMfmzubpOmhz"
+    },
+    {
+      "collaborative": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/user/gliv49/playlist/6xhtfh3E60g0BvhY6q5y76"
+      },
+      "href": "https://api.spotify.com/v1/users/gliv49/playlists/6xhtfh3E60g0BvhY6q5y76",
+      "id": "6xhtfh3E60g0BvhY6q5y76",
+      "images": [
+        {
+          "height": null,
+          "url": "https://pl.scdn.co/images/pl/default/c8ccc82dc49f96e410dc21e941ad7b01c5ba6ad3",
+          "width": null
+        }
+      ],
+      "name": "March 2018",
+      "owner": {
+        "display_name": "Grant Livingston",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/gliv49"
+        },
+        "href": "https://api.spotify.com/v1/users/gliv49",
+        "id": "gliv49",
+        "type": "user",
+        "uri": "spotify:user:gliv49"
+      },
+      "primary_color": null,
+      "public": false,
+      "snapshot_id": "TGplw6einGNUkp/ybdEMvetJQop2SkO0ElnsP9sQly8EM8b75wsJfED78REmiG5B",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/users/gliv49/playlists/6xhtfh3E60g0BvhY6q5y76/tracks",
+        "total": 57
+      },
+      "type": "playlist",
+      "uri": "spotify:user:gliv49:playlist:6xhtfh3E60g0BvhY6q5y76"
+    },
+    {
+      "collaborative": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/user/1263322089/playlist/2THQTuCjj4YImzrKbdahDE"
+      },
+      "href": "https://api.spotify.com/v1/users/1263322089/playlists/2THQTuCjj4YImzrKbdahDE",
+      "id": "2THQTuCjj4YImzrKbdahDE",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://mosaic.scdn.co/640/155085a32e75784423ce15a5cb5b7e4d4ff6916073a46fa24f10ce6c32e8f92e81e0d3e09c1e7fb783c4f90ba6a0fcff09f5b8abb1c9120adec263218cc8642ac3dbacfe5dbf02731a49ef31a62dadbe",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://mosaic.scdn.co/300/155085a32e75784423ce15a5cb5b7e4d4ff6916073a46fa24f10ce6c32e8f92e81e0d3e09c1e7fb783c4f90ba6a0fcff09f5b8abb1c9120adec263218cc8642ac3dbacfe5dbf02731a49ef31a62dadbe",
+          "width": 300
+        },
+        {
+          "height": 60,
+          "url": "https://mosaic.scdn.co/60/155085a32e75784423ce15a5cb5b7e4d4ff6916073a46fa24f10ce6c32e8f92e81e0d3e09c1e7fb783c4f90ba6a0fcff09f5b8abb1c9120adec263218cc8642ac3dbacfe5dbf02731a49ef31a62dadbe",
+          "width": 60
+        }
+      ],
+      "name": "February 2018",
+      "owner": {
+        "display_name": "Johnny Craig",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/1263322089"
+        },
+        "href": "https://api.spotify.com/v1/users/1263322089",
+        "id": "1263322089",
+        "type": "user",
+        "uri": "spotify:user:1263322089"
+      },
+      "primary_color": null,
+      "public": true,
+      "snapshot_id": "JU6HupjXkvTBTYtPLJtvOXZv1F5yaxNwR/hQle1Da8m4c7JhDl8yvQyeL0381dEt",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/users/1263322089/playlists/2THQTuCjj4YImzrKbdahDE/tracks",
+        "total": 22
+      },
+      "type": "playlist",
+      "uri": "spotify:user:1263322089:playlist:2THQTuCjj4YImzrKbdahDE"
+    },
+    {
+      "collaborative": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/user/1263322089/playlist/6Oi1s7KFoGaunMglm6gNkA"
+      },
+      "href": "https://api.spotify.com/v1/users/1263322089/playlists/6Oi1s7KFoGaunMglm6gNkA",
+      "id": "6Oi1s7KFoGaunMglm6gNkA",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://mosaic.scdn.co/640/6949c9be49a693f99086142d0fe91312d7933a49827ba747fdc78fb6da41647b33c74bddd219767dbb8966e32092183ee1880a24b2036c80d7f90c80d2f6ae8b5a1501cdce7b4a75e763fc786a0dc8c2",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://mosaic.scdn.co/300/6949c9be49a693f99086142d0fe91312d7933a49827ba747fdc78fb6da41647b33c74bddd219767dbb8966e32092183ee1880a24b2036c80d7f90c80d2f6ae8b5a1501cdce7b4a75e763fc786a0dc8c2",
+          "width": 300
+        },
+        {
+          "height": 60,
+          "url": "https://mosaic.scdn.co/60/6949c9be49a693f99086142d0fe91312d7933a49827ba747fdc78fb6da41647b33c74bddd219767dbb8966e32092183ee1880a24b2036c80d7f90c80d2f6ae8b5a1501cdce7b4a75e763fc786a0dc8c2",
+          "width": 60
+        }
+      ],
+      "name": "January 2018",
+      "owner": {
+        "display_name": "Johnny Craig",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/1263322089"
+        },
+        "href": "https://api.spotify.com/v1/users/1263322089",
+        "id": "1263322089",
+        "type": "user",
+        "uri": "spotify:user:1263322089"
+      },
+      "primary_color": null,
+      "public": true,
+      "snapshot_id": "DkJqBcSu+EoYoC9ub8b3XGuWrwsGeZlrwdgj7FJP0jkUMNE2kzlqqmi4g36w7xww",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/users/1263322089/playlists/6Oi1s7KFoGaunMglm6gNkA/tracks",
+        "total": 21
+      },
+      "type": "playlist",
+      "uri": "spotify:user:1263322089:playlist:6Oi1s7KFoGaunMglm6gNkA"
+    },
+    {
+      "collaborative": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/user/1263322089/playlist/1YuXVhS7CUQefR9jZfqFVB"
+      },
+      "href": "https://api.spotify.com/v1/users/1263322089/playlists/1YuXVhS7CUQefR9jZfqFVB",
+      "id": "1YuXVhS7CUQefR9jZfqFVB",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/9bc27ef6eca71df5faf0446237e8cc4a4ad1602b",
+          "width": 640
+        }
+      ],
+      "name": "Unforgettable",
+      "owner": {
+        "display_name": "Johnny Craig",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/1263322089"
+        },
+        "href": "https://api.spotify.com/v1/users/1263322089",
+        "id": "1263322089",
+        "type": "user",
+        "uri": "spotify:user:1263322089"
+      },
+      "primary_color": null,
+      "public": true,
+      "snapshot_id": "5mZUQN5A7LPfsvS+R825L6+9B+t+cgj2TgtEqnd8PvjHWzZ375bilJBQdDZjPoiu",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/users/1263322089/playlists/1YuXVhS7CUQefR9jZfqFVB/tracks",
+        "total": 2
+      },
+      "type": "playlist",
+      "uri": "spotify:user:1263322089:playlist:1YuXVhS7CUQefR9jZfqFVB"
+    },
+    {
+      "collaborative": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/user/1263322089/playlist/4SEspH1FNegvUeDFWbdRdg"
+      },
+      "href": "https://api.spotify.com/v1/users/1263322089/playlists/4SEspH1FNegvUeDFWbdRdg",
+      "id": "4SEspH1FNegvUeDFWbdRdg",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://mosaic.scdn.co/640/27daac538a4d28d3f710eb34b90241036e8b7a395959b928589064dd7af767ad4d4c87da57a9d6cc6c5e51abac3f51b90a24602deecf802945fa9bd4ffed1531cb2e195d0989dcc1abcfec154ac98de2",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://mosaic.scdn.co/300/27daac538a4d28d3f710eb34b90241036e8b7a395959b928589064dd7af767ad4d4c87da57a9d6cc6c5e51abac3f51b90a24602deecf802945fa9bd4ffed1531cb2e195d0989dcc1abcfec154ac98de2",
+          "width": 300
+        },
+        {
+          "height": 60,
+          "url": "https://mosaic.scdn.co/60/27daac538a4d28d3f710eb34b90241036e8b7a395959b928589064dd7af767ad4d4c87da57a9d6cc6c5e51abac3f51b90a24602deecf802945fa9bd4ffed1531cb2e195d0989dcc1abcfec154ac98de2",
+          "width": 60
+        }
+      ],
+      "name": "Yes Mam",
+      "owner": {
+        "display_name": "Johnny Craig",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/1263322089"
+        },
+        "href": "https://api.spotify.com/v1/users/1263322089",
+        "id": "1263322089",
+        "type": "user",
+        "uri": "spotify:user:1263322089"
+      },
+      "primary_color": null,
+      "public": true,
+      "snapshot_id": "SjBNN6dX2HIGFYjoPTozQ68PYQjPxFvpT2qGGSY4tEQJ1SCxoZJO9A3/kmSa2ELu",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/users/1263322089/playlists/4SEspH1FNegvUeDFWbdRdg/tracks",
+        "total": 17
+      },
+      "type": "playlist",
+      "uri": "spotify:user:1263322089:playlist:4SEspH1FNegvUeDFWbdRdg"
+    },
+    {
+      "collaborative": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/user/1263322089/playlist/2V1pOXhXPTvbv8knPWRENo"
+      },
+      "href": "https://api.spotify.com/v1/users/1263322089/playlists/2V1pOXhXPTvbv8knPWRENo",
+      "id": "2V1pOXhXPTvbv8knPWRENo",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/827ba747fdc78fb6da41647b33c74bddd219767d",
+          "width": 640
+        }
+      ],
+      "name": "December 2017",
+      "owner": {
+        "display_name": "Johnny Craig",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/1263322089"
+        },
+        "href": "https://api.spotify.com/v1/users/1263322089",
+        "id": "1263322089",
+        "type": "user",
+        "uri": "spotify:user:1263322089"
+      },
+      "primary_color": null,
+      "public": true,
+      "snapshot_id": "EPTf1tUCfVslJUTAdq5ra9erEg3CFd+KrS8aqesvlqWlA2d9expW2ChmGAUqSXUi",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/users/1263322089/playlists/2V1pOXhXPTvbv8knPWRENo/tracks",
+        "total": 1
+      },
+      "type": "playlist",
+      "uri": "spotify:user:1263322089:playlist:2V1pOXhXPTvbv8knPWRENo"
+    },
+    {
+      "collaborative": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/user/1263322089/playlist/6WmMq9IyoWXGwqv5LxaQAY"
+      },
+      "href": "https://api.spotify.com/v1/users/1263322089/playlists/6WmMq9IyoWXGwqv5LxaQAY",
+      "id": "6WmMq9IyoWXGwqv5LxaQAY",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://mosaic.scdn.co/640/4088026c9138ecdc3af9f8965ce420e9ac510ca7717290460ec646ffa372c7f483835eaacfea34f7a32c2510cbe897256c4f4a8204eba79f895f24c5ce3d986f87818549280d7a9c345de696851e3cb9",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://mosaic.scdn.co/300/4088026c9138ecdc3af9f8965ce420e9ac510ca7717290460ec646ffa372c7f483835eaacfea34f7a32c2510cbe897256c4f4a8204eba79f895f24c5ce3d986f87818549280d7a9c345de696851e3cb9",
+          "width": 300
+        },
+        {
+          "height": 60,
+          "url": "https://mosaic.scdn.co/60/4088026c9138ecdc3af9f8965ce420e9ac510ca7717290460ec646ffa372c7f483835eaacfea34f7a32c2510cbe897256c4f4a8204eba79f895f24c5ce3d986f87818549280d7a9c345de696851e3cb9",
+          "width": 60
+        }
+      ],
+      "name": "October 2017",
+      "owner": {
+        "display_name": "Johnny Craig",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/1263322089"
+        },
+        "href": "https://api.spotify.com/v1/users/1263322089",
+        "id": "1263322089",
+        "type": "user",
+        "uri": "spotify:user:1263322089"
+      },
+      "primary_color": null,
+      "public": true,
+      "snapshot_id": "EtllTKY+V6XJa6fAwti0ixFvVqEJla7PUpjsghwp6aeYUonwHDoE+Wlwsti5Fop/",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/users/1263322089/playlists/6WmMq9IyoWXGwqv5LxaQAY/tracks",
+        "total": 25
+      },
+      "type": "playlist",
+      "uri": "spotify:user:1263322089:playlist:6WmMq9IyoWXGwqv5LxaQAY"
+    },
+    {
+      "collaborative": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/user/1263322089/playlist/76BGqwcSYwXBbIQUyH4Nva"
+      },
+      "href": "https://api.spotify.com/v1/users/1263322089/playlists/76BGqwcSYwXBbIQUyH4Nva",
+      "id": "76BGqwcSYwXBbIQUyH4Nva",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://mosaic.scdn.co/640/a32c2510cbe897256c4f4a8204eba79f895f24c5c8eafa550f5ce5bf54fa68a615bde6e0c18c13c4ce3d986f87818549280d7a9c345de696851e3cb9ebf3a46004b4ebbbec73a2bc4b944f377e2b31ac",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://mosaic.scdn.co/300/a32c2510cbe897256c4f4a8204eba79f895f24c5c8eafa550f5ce5bf54fa68a615bde6e0c18c13c4ce3d986f87818549280d7a9c345de696851e3cb9ebf3a46004b4ebbbec73a2bc4b944f377e2b31ac",
+          "width": 300
+        },
+        {
+          "height": 60,
+          "url": "https://mosaic.scdn.co/60/a32c2510cbe897256c4f4a8204eba79f895f24c5c8eafa550f5ce5bf54fa68a615bde6e0c18c13c4ce3d986f87818549280d7a9c345de696851e3cb9ebf3a46004b4ebbbec73a2bc4b944f377e2b31ac",
+          "width": 60
+        }
+      ],
+      "name": "November 2017",
+      "owner": {
+        "display_name": "Johnny Craig",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/1263322089"
+        },
+        "href": "https://api.spotify.com/v1/users/1263322089",
+        "id": "1263322089",
+        "type": "user",
+        "uri": "spotify:user:1263322089"
+      },
+      "primary_color": null,
+      "public": true,
+      "snapshot_id": "m69TqfbrWxLLOaZJAZ2Vu7sGn9rLxcegcm399GVl9YYdpD6thbnbtAb2+Oa0vWtc",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/users/1263322089/playlists/76BGqwcSYwXBbIQUyH4Nva/tracks",
+        "total": 52
+      },
+      "type": "playlist",
+      "uri": "spotify:user:1263322089:playlist:76BGqwcSYwXBbIQUyH4Nva"
+    },
+    {
+      "collaborative": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/user/1263322089/playlist/2dcysfN2sywvxUWZfVhsKk"
+      },
+      "href": "https://api.spotify.com/v1/users/1263322089/playlists/2dcysfN2sywvxUWZfVhsKk",
+      "id": "2dcysfN2sywvxUWZfVhsKk",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://mosaic.scdn.co/640/450281b51aaedc70d3c5a9b35c93117e3325ca64c8eafa550f5ce5bf54fa68a615bde6e0c18c13c4e5e617df404d6982f114f5a5d0e3b991af7e1facf8de52d5fa3bf90d4197dc21f4118671208f1a7d",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://mosaic.scdn.co/300/450281b51aaedc70d3c5a9b35c93117e3325ca64c8eafa550f5ce5bf54fa68a615bde6e0c18c13c4e5e617df404d6982f114f5a5d0e3b991af7e1facf8de52d5fa3bf90d4197dc21f4118671208f1a7d",
+          "width": 300
+        },
+        {
+          "height": 60,
+          "url": "https://mosaic.scdn.co/60/450281b51aaedc70d3c5a9b35c93117e3325ca64c8eafa550f5ce5bf54fa68a615bde6e0c18c13c4e5e617df404d6982f114f5a5d0e3b991af7e1facf8de52d5fa3bf90d4197dc21f4118671208f1a7d",
+          "width": 60
+        }
+      ],
+      "name": "study",
+      "owner": {
+        "display_name": "Johnny Craig",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/1263322089"
+        },
+        "href": "https://api.spotify.com/v1/users/1263322089",
+        "id": "1263322089",
+        "type": "user",
+        "uri": "spotify:user:1263322089"
+      },
+      "primary_color": null,
+      "public": true,
+      "snapshot_id": "Vx2FT9ydzrEY+2aXCQeaNZcMDeRdWmdlpEz+zpN/ZvrpQBS3wu2/YNtorJvUX558",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/users/1263322089/playlists/2dcysfN2sywvxUWZfVhsKk/tracks",
+        "total": 14
+      },
+      "type": "playlist",
+      "uri": "spotify:user:1263322089:playlist:2dcysfN2sywvxUWZfVhsKk"
+    },
+    {
+      "collaborative": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/user/1263322089/playlist/1y9e0ZCDmKeBFrzZEEKxin"
+      },
+      "href": "https://api.spotify.com/v1/users/1263322089/playlists/1y9e0ZCDmKeBFrzZEEKxin",
+      "id": "1y9e0ZCDmKeBFrzZEEKxin",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://mosaic.scdn.co/640/0beb85a35a4ef3242432207f1a323151db693bce3d3b0475aee0998afbedc9dfa5592dcbd5cfc73275673d5b278777c5c88adb9e9562c8a73df704f67fed57396b710d4b8f8cd3b2fb7a0b735359a934",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://mosaic.scdn.co/300/0beb85a35a4ef3242432207f1a323151db693bce3d3b0475aee0998afbedc9dfa5592dcbd5cfc73275673d5b278777c5c88adb9e9562c8a73df704f67fed57396b710d4b8f8cd3b2fb7a0b735359a934",
+          "width": 300
+        },
+        {
+          "height": 60,
+          "url": "https://mosaic.scdn.co/60/0beb85a35a4ef3242432207f1a323151db693bce3d3b0475aee0998afbedc9dfa5592dcbd5cfc73275673d5b278777c5c88adb9e9562c8a73df704f67fed57396b710d4b8f8cd3b2fb7a0b735359a934",
+          "width": 60
+        }
+      ],
+      "name": "September 2017",
+      "owner": {
+        "display_name": "Johnny Craig",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/1263322089"
+        },
+        "href": "https://api.spotify.com/v1/users/1263322089",
+        "id": "1263322089",
+        "type": "user",
+        "uri": "spotify:user:1263322089"
+      },
+      "primary_color": null,
+      "public": true,
+      "snapshot_id": "+t09cv7tYPEIKJNs4LyE8jI/McLsm5IwEyHw3zdgOjcAchCN7aUUjEIDVGgTh6Ly",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/users/1263322089/playlists/1y9e0ZCDmKeBFrzZEEKxin/tracks",
+        "total": 25
+      },
+      "type": "playlist",
+      "uri": "spotify:user:1263322089:playlist:1y9e0ZCDmKeBFrzZEEKxin"
+    },
+    {
+      "collaborative": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/user/1263322089/playlist/6MKobWwFEA7IBwS0HAbc8j"
+      },
+      "href": "https://api.spotify.com/v1/users/1263322089/playlists/6MKobWwFEA7IBwS0HAbc8j",
+      "id": "6MKobWwFEA7IBwS0HAbc8j",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/6c537f4b698a55ee5225cc0b5849f284d0e92fa4",
+          "width": 640
+        }
+      ],
+      "name": "My Shazam Tracks",
+      "owner": {
+        "display_name": "Johnny Craig",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/1263322089"
+        },
+        "href": "https://api.spotify.com/v1/users/1263322089",
+        "id": "1263322089",
+        "type": "user",
+        "uri": "spotify:user:1263322089"
+      },
+      "primary_color": null,
+      "public": true,
+      "snapshot_id": "bdDJhSTbAL6hYvhlK79fw2wA5x8S7h9en0/uyhNJMWT8gea9/5979+sjLem0KxG5",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/users/1263322089/playlists/6MKobWwFEA7IBwS0HAbc8j/tracks",
+        "total": 2
+      },
+      "type": "playlist",
+      "uri": "spotify:user:1263322089:playlist:6MKobWwFEA7IBwS0HAbc8j"
+    },
+    {
+      "collaborative": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/user/1263322089/playlist/3X8yYYBx3gCt4Lu9Sfjyjg"
+      },
+      "href": "https://api.spotify.com/v1/users/1263322089/playlists/3X8yYYBx3gCt4Lu9Sfjyjg",
+      "id": "3X8yYYBx3gCt4Lu9Sfjyjg",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://mosaic.scdn.co/640/1b26fe4ae24cdf6f9bdfaa7fd733201a5ebbae4392501ad97eba0f22b05aca03d90937dc4af2735bbfa26a764cb28f8df1cbfa10e352b1eadfe937c8f77138dabda832c85e452e2d8cc6edb20a83c136",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://mosaic.scdn.co/300/1b26fe4ae24cdf6f9bdfaa7fd733201a5ebbae4392501ad97eba0f22b05aca03d90937dc4af2735bbfa26a764cb28f8df1cbfa10e352b1eadfe937c8f77138dabda832c85e452e2d8cc6edb20a83c136",
+          "width": 300
+        },
+        {
+          "height": 60,
+          "url": "https://mosaic.scdn.co/60/1b26fe4ae24cdf6f9bdfaa7fd733201a5ebbae4392501ad97eba0f22b05aca03d90937dc4af2735bbfa26a764cb28f8df1cbfa10e352b1eadfe937c8f77138dabda832c85e452e2d8cc6edb20a83c136",
+          "width": 60
+        }
+      ],
+      "name": "Nintendo King",
+      "owner": {
+        "display_name": "Johnny Craig",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/1263322089"
+        },
+        "href": "https://api.spotify.com/v1/users/1263322089",
+        "id": "1263322089",
+        "type": "user",
+        "uri": "spotify:user:1263322089"
+      },
+      "primary_color": null,
+      "public": true,
+      "snapshot_id": "MauoC8G3R4eyoON/LBW2Fnb+Ha58LDSprP+izKW5a5kMV9iOdnhs3wzraB1bCrQ7",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/users/1263322089/playlists/3X8yYYBx3gCt4Lu9Sfjyjg/tracks",
+        "total": 49
+      },
+      "type": "playlist",
+      "uri": "spotify:user:1263322089:playlist:3X8yYYBx3gCt4Lu9Sfjyjg"
+    },
+    {
+      "collaborative": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/user/1263322089/playlist/5ZJ8N5bpZBmQqhsE4tMyVJ"
+      },
+      "href": "https://api.spotify.com/v1/users/1263322089/playlists/5ZJ8N5bpZBmQqhsE4tMyVJ",
+      "id": "5ZJ8N5bpZBmQqhsE4tMyVJ",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://mosaic.scdn.co/640/441145e583153d96adfea197eca1294c7d10582c7faa16835aee312077945f30dc5cd48215c7044aa01b167833bc5f17e6a8be6604dd50bb05d16e24b345572d2bd9e2ee08e5b56f3a66a5ea01f94a68",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://mosaic.scdn.co/300/441145e583153d96adfea197eca1294c7d10582c7faa16835aee312077945f30dc5cd48215c7044aa01b167833bc5f17e6a8be6604dd50bb05d16e24b345572d2bd9e2ee08e5b56f3a66a5ea01f94a68",
+          "width": 300
+        },
+        {
+          "height": 60,
+          "url": "https://mosaic.scdn.co/60/441145e583153d96adfea197eca1294c7d10582c7faa16835aee312077945f30dc5cd48215c7044aa01b167833bc5f17e6a8be6604dd50bb05d16e24b345572d2bd9e2ee08e5b56f3a66a5ea01f94a68",
+          "width": 60
+        }
+      ],
+      "name": "August 2017",
+      "owner": {
+        "display_name": "Johnny Craig",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/1263322089"
+        },
+        "href": "https://api.spotify.com/v1/users/1263322089",
+        "id": "1263322089",
+        "type": "user",
+        "uri": "spotify:user:1263322089"
+      },
+      "primary_color": null,
+      "public": true,
+      "snapshot_id": "JQ4EW0UmP6f5HAehrgolN7IS7UI3kVaNOUjNBWw5wLsyhSa+/crBq4Wrg6AxkhfE",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/users/1263322089/playlists/5ZJ8N5bpZBmQqhsE4tMyVJ/tracks",
+        "total": 40
+      },
+      "type": "playlist",
+      "uri": "spotify:user:1263322089:playlist:5ZJ8N5bpZBmQqhsE4tMyVJ"
+    },
+    {
+      "collaborative": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/user/1263322089/playlist/1rjZTUt4WSZx8FSaOadG5A"
+      },
+      "href": "https://api.spotify.com/v1/users/1263322089/playlists/1rjZTUt4WSZx8FSaOadG5A",
+      "id": "1rjZTUt4WSZx8FSaOadG5A",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://mosaic.scdn.co/640/08d56eac0c7d48bb8bf7752b2202c3314db793946e1be3ceda70250c701caee5a16bef205e94bc98849eecf3c9df835181c2970c435ac2d008346ea3ae61915fc3f4b3019200ba6ee58a2a85866461bf",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://mosaic.scdn.co/300/08d56eac0c7d48bb8bf7752b2202c3314db793946e1be3ceda70250c701caee5a16bef205e94bc98849eecf3c9df835181c2970c435ac2d008346ea3ae61915fc3f4b3019200ba6ee58a2a85866461bf",
+          "width": 300
+        },
+        {
+          "height": 60,
+          "url": "https://mosaic.scdn.co/60/08d56eac0c7d48bb8bf7752b2202c3314db793946e1be3ceda70250c701caee5a16bef205e94bc98849eecf3c9df835181c2970c435ac2d008346ea3ae61915fc3f4b3019200ba6ee58a2a85866461bf",
+          "width": 60
+        }
+      ],
+      "name": "Muse",
+      "owner": {
+        "display_name": "Johnny Craig",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/1263322089"
+        },
+        "href": "https://api.spotify.com/v1/users/1263322089",
+        "id": "1263322089",
+        "type": "user",
+        "uri": "spotify:user:1263322089"
+      },
+      "primary_color": null,
+      "public": true,
+      "snapshot_id": "dqaKtbIk86eDo3zv9jYUg6GcY8ZYfy8YM0SCShRMEcPcsxNZF3v4ksekIaoypxik",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/users/1263322089/playlists/1rjZTUt4WSZx8FSaOadG5A/tracks",
+        "total": 18
+      },
+      "type": "playlist",
+      "uri": "spotify:user:1263322089:playlist:1rjZTUt4WSZx8FSaOadG5A"
+    }
+  ],
+  "limit": 20,
+  "next": "https://api.spotify.com/v1/users/1263322089/playlists?offset=20&limit=20",
+  "offset": 0,
+  "previous": null,
+  "total": 87
+}
